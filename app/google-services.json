@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "268505395903",
+    "project_id": "learningdemo-af80a",
+    "storage_bucket": "learningdemo-af80a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268505395903:android:92b8d95c3b908cc8f04c0a",
+        "android_client_info": {
+          "package_name": "com.example.learningdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "268505395903-b447ougk229hnc41cj9cl0av6e2kv90p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.learningdemo",
+            "certificate_hash": "0fb4f21a56cf9ed98a1aa1623572759e51e69c9f"
+          }
+        },
+        {
+          "client_id": "268505395903-9j2m7gebuh8su5j5r9gepdvgpcfgut7l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxOSj28qGvBF1TnsYSr8KHNc66dzUGvgc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "268505395903-9j2m7gebuh8su5j5r9gepdvgpcfgut7l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
