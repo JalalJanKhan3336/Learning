@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Learning Demo</string>
+    <string name="app_name">Learning Dagger2</string>
     <string name="email">Email</string>
     <string name="password">Password</string>
     <string name="login">Login</string>
