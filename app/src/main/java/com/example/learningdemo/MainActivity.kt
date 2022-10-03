@@ -1,9 +1,6 @@
 package com.example.learningdemo
 
-import java.io.File
 import android.os.Bundle
-import android.content.Context
-import com.google.firebase.auth.FirebaseAuth
 import androidx.appcompat.app.AppCompatActivity
 import com.example.learningdemo.databinding.ActivityMainBinding
 
